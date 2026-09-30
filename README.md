@@ -1,7 +1,9 @@
 # smartbreeds.
 
 AI-powered pet insights. One photo of your pet and the AI tells you its breed,
-traits and health notes, then suggests products that suits it best.
+traits and health notes, then suggests products that suit it best.
+
+Frontend only: backend and AI services are in the [team repo](https://github.com/Nihilantropy/ft_transcendence).
 
 ## Features
 
@@ -30,7 +32,8 @@ pnpm install
 pnpm dev
 ```
 
-The dev server proxies `/api` to the backend at `https://localhost:8443`, so start the stack first.
+The dev server proxies `/api` to the backend at `https://localhost:8443`: start the full stack from the
+[main repo](https://github.com/Nihilantropy/ft_transcendence) first.
 
 enjoy.
 
